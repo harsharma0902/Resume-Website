@@ -1,0 +1,205 @@
+.profile-pic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 8rem;
+    padding-bottom: 1rem;
+    width: 15rem;
+}
+.profile-pic:hover{
+    opacity: 50%;
+}
+.me{
+    text-align: center;
+    font-family: 'Pangolin', cursive;
+    padding-bottom: 8rem;
+    color: white;
+}
+.me:hover{
+    color: #2b2e4a;
+}
+.first{
+    background-image: radial-gradient(#51c4d3, #2b2e4a);
+}
+
+.welcome{
+    text-align: center;
+    font-family: 'Pangolin', cursive;
+    padding-top: 4rem;
+    color: #2b2e4a;
+}
+.welcome-h3{
+    text-align: center;
+    font-family: 'Pangolin', cursive;
+    color: #2b2e4a;
+}
+.code{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+.about-me{
+    padding: 2rem 20% 1rem 20%;
+    font-weight: 700;
+    text-align: center;
+}
+.follow{
+    padding: 0 20% 5rem 20%;
+    font-weight: 700;
+    text-align: center;
+}
+
+.third{
+    background-image: linear-gradient(#51c4d3, #2b2e4a);
+}
+.edu{
+    text-align: center;
+    font-family: 'Pangolin', cursive;
+    padding-top: 5rem;
+    color: #2b2e4a;
+    text-decoration: underline;
+}
+.dtu{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5rem;
+    padding-bottom: 2rem;
+    width: 10rem;
+}
+.edu-details{
+    text-align: center;
+    font-family: 'Pangolin', cursive;
+    color: white;
+    line-height: 2rem;
+}
+.edu-details-last{
+    text-align: center;
+    font-family: 'Pangolin', cursive;
+    color: white;
+    line-height: 2rem;
+    padding-bottom: 5rem;
+    padding-top: 5rem;
+}
+.bvn{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5rem;
+    padding-bottom: 2rem;
+    width: 10rem;
+}
+.univ{
+    text-align: center;
+    font-family: 'Pangolin', cursive;
+    line-height: 2rem;
+}
+.plus-two{
+    text-align: center;
+    font-family: 'Pangolin', cursive;
+    line-height: 2rem;
+}
+.sch-logo{
+    color: aquamarine;
+}
+.smps{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5rem;
+    padding-bottom: 2rem;
+    width: 10rem;
+}
+.tenth{
+    text-align: center;
+    font-family: 'Pangolin', cursive;
+    line-height: 2rem;
+}
+
+.exp{
+    text-align: center;
+    font-family: 'Pangolin', cursive;
+    padding-top: 5rem;
+    color: #2b2e4a;
+    text-decoration: underline;
+}
+.internshala{
+    width: 10rem;
+    display: block;
+    margin: 5.5rem auto 1rem auto;
+}
+.dcoder{
+    width: 10rem;
+    display: block;
+    margin: 5.5rem auto 1rem auto;
+}
+.iosd{
+    width: 10rem;
+    display: block;
+    margin: 2.5rem auto 1rem auto;
+}
+.assets{
+    width: 10rem;
+    display: block;
+    margin: 2.5rem auto 1rem auto;
+}
+.curie{
+    width: 10rem;
+    display: block;
+    margin: 4rem auto 1rem auto;
+}
+.exp-divs{
+    border-style: solid;
+    display: inline-block;
+    width: 18%;
+    margin-left: 1.2rem;
+    margin-top: 5rem;
+    margin-bottom: 8rem;
+    background-color: #fffbdf;
+}
+h5{
+    text-align: center;
+}
+.company{
+    text-align: center;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    color: #2b2e4a;
+}
+.para-cmp{
+    text-align: center;
+    padding-top: 2rem;
+}
+
+.int{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 5rem;
+    color: #2b2e4a;
+}
+.fifth{
+    background-color: #51c4d3;
+    padding-bottom: 5rem;
+}
+.social{
+    display: inline-block;
+    padding: 2rem 1rem 2rem 1rem;
+
+}
+.fab{
+    color: black;
+}
+.fas{
+    color: black;
+}
+.last{
+    text-align: center;
+}
+.fab:hover{
+    color: #34656d;
+}
+.fas:hover{
+    color: #34656d;
+}
